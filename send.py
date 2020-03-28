@@ -12,7 +12,7 @@ from email.mime.text import MIMEText
 
 subject = "Certificate | Dhishna"
 sender_email = "tech.dhishna@gmail.com"
-password = "SantyDance"
+password = ""
 # password = input("Type your password and press enter:")
 
 
